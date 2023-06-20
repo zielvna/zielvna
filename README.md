@@ -2,7 +2,7 @@
 
 ## About me 📝
 
-I'm Jakub. A passionate frontend developer that likes to learn new things. Currently I'm a IT technical school graduate, looking to get my first job.
+I'm Jakub, a passionate front-end developer that likes to learn new things. Currently I'm a IT technical school graduate, looking to get my first job.
 
 ## Technologies 🔧
 
