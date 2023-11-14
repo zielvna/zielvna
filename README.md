@@ -2,7 +2,7 @@
 
 ## About me 📝
 
-I'm Jakub, a passionate front-end developer that likes to learn new things. Currently I'm a IT technical school graduate, looking to get my first job.
+A passionate Full Stack Developer who likes to learn new things. In love with JavaScript and Rust. Currently, I’m building blockchain apps at Invariant.
 
 My portfolio: https://zielvna.netlify.app/
 
@@ -16,6 +16,7 @@ Languages & Platforms:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 Frameworks & Libraries:
 
@@ -55,3 +56,12 @@ Databases & Other:
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+Blockchain:
+
+![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+![Substrate](https://img.shields.io/badge/Substrate-%2324CC85.svg?style=for-the-badge)
+![ink!](https://img.shields.io/badge/ink!-%23BD83FB.svg?style=for-the-badge)
+![Aleph Zero](https://img.shields.io/badge/Aleph%20Zero-%23111B24.svg?style=for-the-badge)
+![Odra](https://img.shields.io/badge/Odra-%23509EF2.svg?style=for-the-badge)
+![Casper](https://img.shields.io/badge/Casper-%23FF2D2E.svg?style=for-the-badge)
