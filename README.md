@@ -4,7 +4,7 @@
 
 A passionate Full Stack Developer who likes to learn new things. In love with JavaScript and Rust. Currently, I’m building blockchain apps at Invariant.
 
-My portfolio: https://zielvna.netlify.app/
+🔗 https://zielvna.netlify.app/
 
 ## Technologies 🔧
 
