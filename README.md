@@ -2,7 +2,7 @@
 
 ## About me 📝
 
-A passionate Full-stack Developer who likes to learn new things. In love with TypeScript and Rust. Currently, I'm building apps at Selleo.
+A passionate Full-stack Developer who likes to learn new things. In love with TypeScript and Rust. Currently, I'm looking for work.
 
 🔗 https://zielvna.netlify.app/
 
